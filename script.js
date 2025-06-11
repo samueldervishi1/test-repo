@@ -1,1 +1,3 @@
-// your javascript code here
+document.getElementById('pirateButton').addEventListener('click', function() {
+    alert('Why is the rum always gone?');
+});
