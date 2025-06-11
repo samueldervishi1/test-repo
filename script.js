@@ -1,2 +1,1 @@
-// script.js
-console.log("Hello from script.js!");
+// your javascript code here
